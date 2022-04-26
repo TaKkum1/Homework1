@@ -1,0 +1,51 @@
+.newshidaiao{
+    color: rgb(30, 55, 124);
+    font-size: 16px;
+}
+
+td{
+    text-align: center;
+}
+
+#oldshidaiao{
+    font-family:'Courier New', Courier, monospace;
+ 
+}
+
+.googlestyle{
+    
+  
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); 
+    height:160px;
+
+    line-height: 160px;
+    border-left: none;
+    border-right: none;
+    -webkit-background-clip: text;
+    color: transparent;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.shape{
+
+    width: 500px;
+	height: 46px;
+	background-color: rgb(255, 255, 255);
+    border-radius: 50px 50px 50px 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+
+input{
+    width: 400px;
+    height: 50px;
+    font-size: 32px;
+}
+
+
